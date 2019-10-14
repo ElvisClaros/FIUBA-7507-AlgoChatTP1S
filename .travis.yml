@@ -1,6 +1,8 @@
 language: smalltalk
 sudo: falso
 os:
-  -linux
-Smalltalk:
-  -Pharo-6.0
+  - linux
+smalltalk_vm: 
+- pharo-6.0
+smalltalk:
+  - Pharo-6.0

@@ -1,0 +1,16 @@
+{
+	"category" : "TP1",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"usuarios",
+		"canales",
+		"conversaciones" ],
+	"name" : "AlgoChat",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

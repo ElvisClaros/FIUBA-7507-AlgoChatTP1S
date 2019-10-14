@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testPalabraClaveApareceEnUnMensajeEstaPausadoParaElCanalApareceEnMensajeDeCanalEsFalso" : "elvis 9/20/2019 07:43",
+		"testPalabraClaveEstaEnUnMensajeDeUnCanalXEsFalse" : "elvis 9/20/2019 07:43",
+		"testPalabraClaveEstaEnUnMensajeEsFalsePorEstarPausado" : "elvis 9/20/2019 07:43",
+		"testPalabraClaveEstaEnUnMensajeParaUCanalXEsTrue" : "elvis 9/20/2019 07:43",
+		"testPalabraClavePausadoParaCanalFiestaApareceEnMensajeDeCanalAnunciosEsTrue" : "elvis 9/20/2019 07:43",
+		"testPalabraClaveReanudoParaCanalFiestaDespuesDeAverPausado" : "elvis 9/20/2019 07:43" } }

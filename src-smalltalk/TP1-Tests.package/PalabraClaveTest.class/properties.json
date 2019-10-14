@@ -1,0 +1,14 @@
+{
+	"category" : "TP1-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "PalabraClaveTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

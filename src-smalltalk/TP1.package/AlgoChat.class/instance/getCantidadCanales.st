@@ -1,0 +1,3 @@
+accesing
+getCantidadCanales
+	^canales size .

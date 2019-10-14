@@ -1,0 +1,14 @@
+{
+	"category" : "TP1-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "UsuarioTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

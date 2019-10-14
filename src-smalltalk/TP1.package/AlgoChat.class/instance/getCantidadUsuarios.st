@@ -1,0 +1,3 @@
+accesing
+getCantidadUsuarios
+	^usuarios size .

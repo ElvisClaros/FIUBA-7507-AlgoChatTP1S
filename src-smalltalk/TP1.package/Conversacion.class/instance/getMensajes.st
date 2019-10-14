@@ -1,0 +1,3 @@
+accesing
+getMensajes
+	^mensajes joinUsing: ' | '.

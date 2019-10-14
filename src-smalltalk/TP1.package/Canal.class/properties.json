@@ -1,0 +1,16 @@
+{
+	"category" : "TP1",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"nombre",
+		"mensajes",
+		"usuarios" ],
+	"name" : "Canal",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

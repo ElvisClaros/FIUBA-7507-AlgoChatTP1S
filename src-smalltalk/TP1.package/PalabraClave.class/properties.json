@@ -1,0 +1,15 @@
+{
+	"category" : "TP1",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"palabraClave",
+		"pausadoParaElCanal" ],
+	"name" : "PalabraClave",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

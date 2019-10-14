@@ -1,0 +1,14 @@
+{
+	"category" : "TP1",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "LongituDeUnMesajeMenorAlaLongitudAResumirError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

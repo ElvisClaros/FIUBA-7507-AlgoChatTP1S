@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testCanalAnunciosTieneUnaNotificacionHola" : "elvis 9/20/2019 08:20",
+		"testCanalRecienCreadoNoTieneNotificaciones" : "elvis 9/20/2019 08:15",
+		"testCanalTieneDosUsuariosSePausaUnaPalabraClaveDeUnUsuario" : "elvis 9/20/2019 08:59",
+		"testCanalTieneDosUsuariosUnUsuarioReciveDosVecesElMismoMensaje" : "elvis 9/20/2019 08:59",
+		"testCanalTieneDosUsuariosYSonMencionadosEnLasPublicaciones" : "elvis 9/20/2019 08:59",
+		"testCanalTieneDosUsuariosYSonMencionadosEnLasPublicacionesYMencionanUnaSusPalaBrasClaveDeUnUsuario" : "elvis 9/20/2019 08:59",
+		"testCanalTieneVariosNotificacionesResumeEnALongitud4" : "elvis 9/20/2019 08:20" } }

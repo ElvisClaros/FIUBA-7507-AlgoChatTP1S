@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"nuevoConNombre:" : "elvis 9/20/2019 07:55" },
+	"instance" : {
+		"agregarPalabraClave:" : "elvis 9/19/2019 09:30",
+		"getMensajes" : "elvis 9/20/2019 08:15",
+		"getNombre" : "elvis 9/18/2019 20:13",
+		"getNotificacionesResumidasALongitud:" : "elvis 9/20/2019 14:16",
+		"getPalabrasClaves" : "elvis 9/18/2019 22:55",
+		"initialize" : "elvis 9/18/2019 20:59",
+		"nombreUsuario:" : "elvis 9/20/2019 07:56",
+		"notificarSiCorrespondeConMensaje:deCanal:" : "elvis 9/20/2019 09:31",
+		"pausarParaElCanal:" : "elvis 9/20/2019 07:36",
+		"reanudarPalabrasDeCanal:" : "elvis 9/20/2019 05:15",
+		"recibeEsteMensaje:" : "elvis 9/20/2019 08:20" } }

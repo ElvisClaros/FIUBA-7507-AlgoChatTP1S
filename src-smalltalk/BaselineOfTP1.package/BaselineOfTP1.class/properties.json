@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfTP1",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfTP1",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

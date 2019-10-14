@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"nuevoConNombre:" : "elvis 9/16/2019 23:56" },
+	"instance" : {
+		"agregarUsuario:" : "elvis 9/20/2019 08:59",
+		"getMensajes" : "elvis 9/20/2019 08:15",
+		"getNombre" : "elvis 9/19/2019 12:46",
+		"getNotificacionesResumidasALongitud:" : "elvis 9/20/2019 14:03",
+		"initialize" : "elvis 9/19/2019 23:07",
+		"nombre:" : "elvis 9/16/2019 23:56",
+		"recibeEsteMensaje:" : "elvis 9/20/2019 09:33" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "TP1",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "NombreNoSeEncuentraError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

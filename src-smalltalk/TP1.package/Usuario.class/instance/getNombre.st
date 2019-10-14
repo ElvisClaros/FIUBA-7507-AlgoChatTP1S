@@ -1,0 +1,3 @@
+accesing
+getNombre
+	^nombre .

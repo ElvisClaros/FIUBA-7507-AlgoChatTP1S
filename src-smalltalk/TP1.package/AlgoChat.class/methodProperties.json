@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"agregarCanalConNombre:" : "elvis 9/20/2019 13:52",
+		"agregarPalabraClave:alUsuario:" : "elvis 9/20/2019 15:49",
+		"agregarUsuario:" : "elvis 9/20/2019 13:54",
+		"agregarUsuario:alCanal:" : "elvis 9/20/2019 15:49",
+		"crearConversacionConUsuarios:" : "elvis 9/20/2019 14:23",
+		"enviarMensaje:aUsuario:" : "elvis 9/20/2019 15:49",
+		"getCantidadCanales" : "elvis 9/20/2019 08:52",
+		"getCantidadUsuarios" : "elvis 9/20/2019 08:52",
+		"getMensajesDeConversacion:" : "elvis 9/20/2019 15:49",
+		"getNotificacionesDeUsuario:" : "elvis 9/20/2019 15:49",
+		"getNotificacionesDeUsuario:resumidasALongitud:" : "elvis 9/20/2019 15:49",
+		"initialize" : "elvis 9/20/2019 13:50",
+		"mensajesDelCanal:" : "elvis 9/20/2019 15:49",
+		"mensajesDelCanal:resumidosALongitud:" : "elvis 9/20/2019 15:49",
+		"pausarPalabrasDeCanal:paraUsuario:" : "elvis 9/20/2019 15:49",
+		"publicarMensaje:enCanal:" : "elvis 9/20/2019 15:49",
+		"publicarMensaje:enConversacion:" : "elvis 9/20/2019 15:49",
+		"reanudarPalabrasDeCanal:paraUsuario:" : "elvis 9/20/2019 15:49" } }

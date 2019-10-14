@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"nuevoConPalabraClave:" : "elvis 9/19/2019 06:42" },
+	"instance" : {
+		"agregarPalabraClave:" : "elvis 9/19/2019 05:59",
+		"aparecesEnMensaje:delCanal:" : "elvis 9/20/2019 07:43",
+		"initialize" : "elvis 9/19/2019 09:35",
+		"pausarParaElCanal:" : "elvis 9/20/2019 07:36",
+		"reanudarPalabrasDeCanal:" : "elvis 9/20/2019 04:58" } }

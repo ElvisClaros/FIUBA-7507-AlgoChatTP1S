@@ -1,13 +1,14 @@
+
 SmalltalkCISpec {
 	#loading : [
 		SCIMetacelloLoadSpec {
-			#baseline : ' TP1 ' ,
-			#directory : ' src-smalltalk ' ,
-			#plataformas : [ #pharo ]
+			#baseline : 'TP1',
+			#directory : 'src-smalltalk',
+			#platforms : [ #pharo ]
 		}
 	],
 	#testing : {
-		#paquetes : [ ' TP1 ' , ' TP1-Tests ' ]
+		#packages : [ 'TP1', 'TP1-Tests' ]
 	}
 
 }

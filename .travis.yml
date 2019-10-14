@@ -1,6 +1,6 @@
-idioma : smalltalk
-sudo : falso
-os :
-  - linux
-Smalltalk :
-  - Pharo-6.0
+language: smalltalk
+sudo: falso
+os:
+  -linux
+Smalltalk:
+  -Pharo-6.0
